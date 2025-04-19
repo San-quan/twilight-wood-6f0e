@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "twilight-wood-6f0e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ab0ac662-8006-4a2d-8230-69d027ba8ada",
+      "database_name": "shiny-forest-2b55-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
